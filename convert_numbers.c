@@ -16,7 +16,7 @@ unsigned int convert_o(va_list args, buffer_t *output,
  * @flags: Flag modifiers.
  * @wid: A width modifier.
  * @prec: A precision modifier.
- * @len: A length modifier.
+ * @len: A length modifier...
  * @output: A buffer_t struct containing a character array.
  *
  * Return: The number of bytes stored to the buffer.
