@@ -12,7 +12,7 @@ unsigned int convert_ubase(buffer_t *output,
  * @output: A buffer_t struct containing a character array.
  * @num: A signed long to be converted.
  * @base: A pointer to a string containing the base to convert to.
- * @flags: Flag modifiers.
+ * @flags: Flag modifiers. Nice
  * @wid: A width modifier.
  * @prec: A precision modifier.
  *
